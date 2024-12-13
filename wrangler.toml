@@ -9,7 +9,7 @@ enabled = true
 
 [vars]
 # Do not commit real values to version control.
-TELEGRAM_BOT_TOKEN = ""
-TELEGRAM_CHAT_ID = ""
-HELIUS_API_KEY = ""
-AUTH_TOKEN = ""
+TELEGRAM_BOT_TOKEN = "7863912376:AAG2xznH6UEh8UkGtaPTX6tcjubu058WSHY"
+TELEGRAM_CHAT_ID = "-1002261132272"
+HELIUS_API_KEY = "586b18e8-9087-46d0-a5d9-200bbede5435"
+AUTH_TOKEN = "UW0JcEFFZ/mSA84tza+0Kqz52CT4qzW/NlGrfHuT0qo="
